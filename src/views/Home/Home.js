@@ -1,5 +1,5 @@
 import "./Home.css"
-import { features, products, theme } from "../../data"
+import { features, theme } from "../../data"
 import { Link } from "react-router-dom"
 import Homeimg from "./home.png"
 import FeatureCard from "../../components/FeatureCard/FeatureCard"

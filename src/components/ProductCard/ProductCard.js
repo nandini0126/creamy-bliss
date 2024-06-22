@@ -1,5 +1,5 @@
 import "./ProductCard.css"
-import { products,theme } from "../../data"
+import { theme } from "../../data"
 import { Link } from "react-router-dom"
 
 function ProductCard({id,name,img,price}) {
