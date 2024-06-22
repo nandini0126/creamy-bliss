@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC:wght@100..400&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: #fbbfe3;
+}
+
+.navbar {
+    padding: 10px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}
+
+.name{
+    margin-left: 20px;
+    font-size: 24px;
+}
+.nav-link {
+    margin-left: 300px;
+    text-decoration: none;
+}
+
+.nav-txt {
+    text-decoration: none;
+    margin: 0 50px;
+}
+.head{
+    display: flex;
+    align-items: center;
+    background-color: #9fcff5;
+}
+.head-desc{
+    margin-left: 40px;
+    width: 500px;
+}
+.tagling{
+    margin-top: 60px;
+}
+.tagling-para{
+    font-size: 20px;
+}
+.btn-buy{
+    padding: 10px;
+    border: none;
+    width: 150px;
+    font-size: 17px;
+    color: #e1108a;
+    border-radius: 0 20px 0 20px;
+    box-shadow: 0 0 10px 0px grey;
+    margin-top: 20px;
+}
+.head-img{
+    height: 400px;
+    margin-left: 200px;
+}
+.feature-container{
+    display: flex;
+    justify-content: center;
+}
+.speciality{
+    text-align: center;
+    font-size: 40px;
+}

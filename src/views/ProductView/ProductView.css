@@ -1,0 +1,23 @@
+.prod-view-container{
+    margin: 100px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.prod-view-img{
+    border-radius: 20px;
+}
+.prod-view-description{
+    width: 500px;
+}
+.btn-buy-noww{
+    width: 200px;
+    padding: 10px 20px;
+    border: none;
+    color: #fff;
+    font-size: 17px;
+    color: #fbbfe3;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
